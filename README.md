@@ -27,6 +27,7 @@ The stock market data for this research was sourced from Yahoo Finance, focusing
   <img src="https://github.com/user-attachments/assets/d3fd8ac3-4340-4ba1-8f76-d2a763026745" alt="Image 1" width="300"/>
   <img src="https://github.com/user-attachments/assets/e030aea7-12d3-4cfa-a1ef-543daf5f5952" alt="Image 2" width="300"/>
 </p>
+
 ## 2) SUPPORT VECTOR REGRESSOR
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b8c2bd84-fd76-4eb9-81d7-f031882cc612" alt="Image 1" width="300"/>
